@@ -2,12 +2,12 @@
 Etapy pracy domowej:
 
 1. wstępna analiza danych i czyszczenie:
-    a. duplikaty
-    b. wartości odstające
-    c. spójność
-    d. braki w danych
-    e. skala wartości
-    f. inne
+    - a. duplikaty
+    - b. wartości odstające
+    - c. spójność
+    - d. braki w danych
+    - e. skala wartości
+    - f. inne
 2. wizualizacja rozkładu zmiennych, zależności ceny od innych zmiennych, liczebność
     kategorii
 3. budowa modelu regresji ceny od pozostałych zmiennych. Istotne zmienne należy
